@@ -14,7 +14,7 @@ serde_json = "1.0.149"
 tokio = { version = "1.49.0", features = ["full"] }
 clap = { version = "4.5.57", features = ["derive"] }
 clap_complete = "4.5.65"
-anyhow = "1.0.100"
+anyhow = "1.0.101"
 directories = "6.0.0"
 async-trait = "0.1.89"
 log = "0.4.29"
